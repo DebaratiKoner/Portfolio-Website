@@ -16,9 +16,9 @@ Hello! I’m **Debarati Koner**, a B.Tech student at the Institute of Engineerin
 
 ##  Features
 
-- ✅ Dark Mode UI  
-- ✅ Responsive Design (mobile-friendly)  
-- ✅ Projects Showcase Section  
-- ✅ Contact Form using EmailJS  
-- ✅ Certificate Upload Preview (image/PDF support)  
-- ✅ Clean and structured layout  
+-  Dark Mode UI  
+-  Responsive Design (mobile-friendly)  
+-  Projects Showcase Section  
+-  Contact Form using EmailJS  
+-  Certificate Upload Preview (image/PDF support)  
+-  Clean and structured layout  
